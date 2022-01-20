@@ -22,7 +22,7 @@
 <br/>
 
 <!-- - 🔭 I’m currently working on MERN --> 
-- 🌱 I’m currently working on Algorithms, Flutter, MERN, Azure, Java
+- 🌱 I’m currently working on Spring Boot, JPA, Azure, JAVA
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/03williammoses/">
   <img alt="William's Linkdein" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
